@@ -1,0 +1,201 @@
+{
+  "name": "john",
+  "headline": "Full Stack Developer | Node.js, React.js, Laravel, Python, SQL",
+  "email": "johndoe@gmail.com",
+  "phone": "+91-9999999999",
+  "experience_years": 4.0,
+  "max_experience_years": 5,
+  "experience_bracket": "3-5 years (Mid-Senior / SDE-2)",
+  "education": "MCA (Lovely Professional University, 2021-2023), BCA (Panjab University, 2017-2020)",
+  "preferred_locations": [
+    "Remote",
+    "Chandigarh",
+    "Mohali",
+    "Panchkula",
+    "Zirakpur"
+  ],
+  "skills": {
+    "core_backend": [
+      "Node.js",
+      "Express.js",
+      "Laravel",
+      "Python",
+      "Flask",
+      "FastAPI",
+      "RESTful APIs",
+      "REST APIs",
+      "Socket.io",
+      "JavaScript",
+      "TypeScript",
+      "PHP",
+      "MySQL",
+      "PostgreSQL",
+      "PgSQL",
+      "MongoDB",
+      "Redis",
+      "Prisma ORM",
+      "BullMQ",
+      "Java"
+    ],
+    "ai_llm": [
+      "Voice AI Agents",
+      "VAPI",
+      "n8n",
+      "RAG",
+      "Google Gemini API",
+      "OpenAI API",
+      "Prompt Engineering",
+      "Multi-modal Processing",
+      "Embeddings",
+      "Vector Search"
+    ],
+    "frontend": [
+      "React.js",
+      "React",
+      "React Native",
+      "HTML5",
+      "CSS3",
+      "jQuery",
+      "AJAX",
+      "Next.js",
+      "Redux Toolkit",
+      "Redux Saga",
+      "React Query",
+      "Tailwind CSS",
+      "Vite",
+      "EJS",
+      "HBS"
+    ],
+    "devops_cloud": [
+      "Docker",
+      "AWS S3",
+      "PM2",
+      "Git",
+      "GitHub",
+      "Postman",
+      "Linux",
+      "Ubuntu",
+      "Cloudflare Workers",
+      "Hono",
+      "Nginx",
+      "Firebase FCM"
+    ],
+    "automation_scraping": [
+      "Selenium",
+      "PyAutoGUI",
+      "OpenCV",
+      "BeautifulSoup4",
+      "Web Scraping",
+      "Desktop Automation"
+    ],
+    "integrations": [
+      "Twilio",
+      "Razorpay",
+      "Mailgun",
+      "Zoho CRM",
+      "Spike API",
+      "Stripe Elements",
+      "Shopify Storefront API"
+    ]
+  },
+  "target_tracks": [
+    {
+      "id": "genai",
+      "title": "AI / GenAI & Automation Engineer",
+      "keywords": [
+        "GenAI Engineer",
+        "AI Software Engineer",
+        "LLM Engineer",
+        "RAG Developer",
+        "AI Agent Developer",
+        "Voice AI Developer",
+        "Automation Engineer",
+        "Python Automation Developer"
+      ],
+      "title_tokens": [
+        "genai",
+        "gen ai",
+        "generative ai",
+        "llm",
+        "rag",
+        "ai engineer",
+        "ai developer",
+        "machine learning"
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "backend_heavy",
+      "title": "Backend Engineer / Developer",
+      "keywords": [
+        "Backend Engineer",
+        "Backend Developer",
+        "Node.js Developer",
+        "Python Developer",
+        "Laravel Developer",
+        "PHP Developer",
+        "Server-Side Developer",
+        "API Developer"
+      ],
+      "title_tokens": [
+        "backend",
+        "back-end",
+        "back end",
+        "node",
+        "nodejs",
+        "node.js",
+        "server-side"
+      ],
+      "priority": "highest"
+    },
+    {
+      "id": "fullstack",
+      "title": "Full Stack Developer",
+      "keywords": [
+        "Full Stack Developer",
+        "Full Stack Engineer",
+        "MERN Stack Developer",
+        "React Node Developer",
+        "Laravel Full Stack Developer",
+        "Python Full Stack Developer"
+      ],
+      "title_tokens": [
+        "full stack",
+        "fullstack",
+        "full-stack",
+        "mern"
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "sde",
+      "title": "Software Engineer / SDE-2",
+      "keywords": [
+        "SDE 2",
+        "SDE-2",
+        "SDE II",
+        "SDE 1",
+        "SDE-1",
+        "Software Engineer",
+        "Software Development Engineer",
+        "Software Developer"
+      ],
+      "title_tokens": [
+        "sde",
+        "software engineer",
+        "software development engineer",
+        "software developer"
+      ],
+      "priority": "high"
+    }
+  ],
+  "disqualifiers": [
+    "WordPress",
+    ".NET",
+    "C#",
+    "Salesforce",
+    "AngularJS",
+    "Cobol",
+    "Unpaid Intern"
+  ]
+}

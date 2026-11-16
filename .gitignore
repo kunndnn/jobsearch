@@ -1,0 +1,45 @@
+# Environments & Package Directories
+/venv/
+/.venv/
+/env/
+/.env
+node_modules/
+**/node_modules/
+
+# Python Packaging & Distribution
+/build/
+/dist/
+*.egg-info/
+*.egg
+*.whl
+*.tar.gz
+
+# Frontend Build Output (tracked so Python dashboard can serve UI without Node.js)
+# frontend/dist/
+
+# Bytecode & Caches
+**/__pycache__/
+*.py[cod]
+*$py.class
+**/.pytest_cache/
+**/.mypy_cache/
+**/.ruff_cache/
+/.ipynb_checkpoints/
+
+# Scraped Data & Local Exports
+*.csv
+scraped_jobs.csv
+**/output/
+
+# OS & IDE
+.DS_Store
+**/.DS_Store
+/.idea/
+.vscode/
+
+# Dashboard runtime data (SQLite DB + WAL files, personal profile/settings/applications)
+data/jobspy.db*
+data/profile.json
+data/settings.json
+data/applications.json
+CV.pdf
